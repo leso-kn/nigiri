@@ -23,9 +23,9 @@
   branch=master
   commit=9758d168fd1ccff2d76f3bd6ef802943d0f8f7e5
 [luajit]
-  url=git@github.com:motis-project/LuaJIT.git
-  branch=v2.1
-  commit=dfa894a9c571bedc26f3a45573917a8af07603e4
+  url=git@github.com:leso-kn/LuaJIT.git
+  branch=v2.1-motis-riscv64
+  commit=acdc0a8e6a0abcd179ed08102555f6dcb6776562
 [miniz]
   url=git@github.com:motis-project/miniz.git
   branch=master
